@@ -1,4 +1,10 @@
-## Hi there 👋
+<h1> नमस्ते (Namaste)🙏🏻, I'm Pranay Patel 🇮🇳!</h1>
+
+- 🔭 I’m currently persuing my MCA degree at MSU, Baroda 
+- 🌱 I’m currently learning ReactJS, Flutter, .NET Technologies
+- 📫 How to reach me: Instagram, LinkedIn
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Chess Player
 
 <!--
 **Pranay1903/Pranay1903** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
