@@ -1,8 +1,11 @@
 <h1> नमस्ते (Namaste)🙏🏻, I'm Pranay Patel 🇮🇳!</h1>
 
-- 🔭 I’m currently Persuing my MCA degree at MSU, Baroda 
-- 🌱 I’m currently learning ReactJS, Flutter, .NET Technologies
-- 📫 How to reach me: Instagram, LinkedIn
+- 💼 Currently working as **Jr. Frontend Developer** at [OptimumBrew Technology LLP](https://optimumbrew.com/)
+- 🎓 I’ve completed my MCA degree at **Maharaja Sayajirao University of Baroda**, Vadodara
+- 🌱 I’m currently learning ReactJS, Angular, .NET Technologies
+- 📫 How to reach me:  
+  - Instagram: [@pranaypatel_19](https://www.instagram.com/pranaypatel_19/)  
+  - LinkedIn: [Pranay Patel](https://www.linkedin.com/in/pranay-patel-310192260/)  
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Chess enthusiast
 
@@ -10,7 +13,7 @@
 ## I Can Code Over
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?perline=8&i=c,cpp,javascript,php,java,dotnet,dart" />
+    <img src="https://skillicons.dev/icons?perline=8&i=c,cpp,javascript,typescript,php,java,dotnet,react,angular" />
   </a>
 </p>
 
@@ -24,7 +27,7 @@
 ## Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?perline=7&i=git,github,idea,vscode,visualstudio,flutter,angular,bootstrap" />
+    <img src="https://skillicons.dev/icons?perline=7&i=git,github,idea,vscode,visualstudio,angular,bootstrap" />
   </a>
 </p>
 
